@@ -2063,6 +2063,11 @@ body.is-preload #wrapper {
   width: 100%;
 }
 
+#main > .panel .right .arrow {
+  position: absolute;
+  padding-left: 0.5em;
+}
+
 #main > .panel.inactive {
   opacity: 0;
 }
